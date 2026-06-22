@@ -1,0 +1,10 @@
+backend/GpsTracker.API/bin/
+backend/GpsTracker.API/obj/
+backend/GpsTracker.API/*.db
+backend/GpsTracker.API/*.db-shm
+backend/GpsTracker.API/*.db-wal
+frontend/gps-tracker/node_modules/
+frontend/gps-tracker/dist/
+.vs/
+*.user
+.env
