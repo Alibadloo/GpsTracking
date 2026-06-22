@@ -10,7 +10,7 @@ A real-time fleet tracking dashboard built with **.NET 8**, **React**, **SignalR
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/Tracking_video.mp4
+https://github.com/Alibadloo/GpsTracking/raw/master/screenshots/Tracking_video.mp4
 
 ## Features
 
